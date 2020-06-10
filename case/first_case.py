@@ -6,7 +6,7 @@ from selenium import webdriver
 from log.user_log import UserLog
 import HTMLTestRunner
 import unittest
-import os
+import os 
 
 
 class FirstCase(unittest.TestCase):

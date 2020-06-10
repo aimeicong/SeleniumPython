@@ -4,6 +4,7 @@
     <list default="true" id="e5ba710d-e1aa-45c8-a729-238c33f5171e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/find_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/find_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/first_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/first_case.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
