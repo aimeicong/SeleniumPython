@@ -3,6 +3,7 @@ import logging
 import os
 import datetime
 
+
 class UserLog():
     def __init__(self):
         self.logger = logging.getLogger()
