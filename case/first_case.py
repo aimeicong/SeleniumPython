@@ -1,10 +1,10 @@
 #coding=utf-8
 import sys
 sys.path.append('E:/PycharmProjects/seleniumPython')
-from business.register_business import RegisterBusiness
+from business.register_business import RegisterBusiness 
 from selenium import webdriver
 from log.user_log import UserLog
-import HTMLTestRunner 
+import HTMLTestRunner
 import unittest
 import os
 
